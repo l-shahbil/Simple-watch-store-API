@@ -32,18 +32,18 @@ namespace WatchStoreAPI.Repository
             _dbContext.SaveChanges();
         }
 
-        public async Task<T> Get(int id)
+        public async Task<T> GetByIdAsync(int id)
         {
             return await _dbContext.Set<T>().FindAsync(id);
 
         }
 
-        public async Task<List<T>> GetAll()
+        public async Task<List<T>> GetAllAsync()
         {
             return await _dbContext.Set<T>().ToListAsync();
         }
 
-        public async Task<List<T>> GetAllInclude(params string[] agers)
+        public async Task<List<T>> GetAllIncludeAsync(params string[] agers)
         {
             var table = _dbContext.Set<T>();
             foreach (var ar in agers)

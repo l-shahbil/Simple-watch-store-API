@@ -53,6 +53,10 @@
               "target": "Package",
               "version": "[6.0.36, )"
             },
+            "Microsoft.AspNetCore.Http.Features": {
+              "target": "Package",
+              "version": "[5.0.17, )"
+            },
             "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
               "target": "Package",
               "version": "[6.0.35, )"
@@ -76,6 +80,10 @@
               "suppressParent": "All",
               "target": "Package",
               "version": "[6.0.35, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
             },
             "Swashbuckle.AspNetCore": {
               "target": "Package",

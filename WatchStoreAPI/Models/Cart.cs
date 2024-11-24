@@ -2,7 +2,9 @@
 using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
+using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
+using WatchStoreAPI.Models.DTO;
 
 namespace WatchStoreAPI.Models
 {
@@ -19,10 +21,8 @@ namespace WatchStoreAPI.Models
         public int Id { get; set; }
         [Column("UserID")]
         public string UserId { get; set; } = null!;
+        public ApplicationUser User { get; set; }
 
-        [ForeignKey("UserId")]
-        [InverseProperty("Cart")]
-        public virtual AspNetUser User { get; set; } = null!;
         [InverseProperty("Cart")]
         public virtual ICollection<CartItem> CartItems { get; set; }
     }

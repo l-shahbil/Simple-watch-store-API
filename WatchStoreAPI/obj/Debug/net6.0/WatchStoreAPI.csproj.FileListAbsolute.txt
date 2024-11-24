@@ -74,3 +74,6 @@ C:\Users\Laith\Source\Repos\WatchStoreAPI\WatchStoreAPI\obj\Debug\net6.0\WatchSt
 C:\Users\Laith\Source\Repos\WatchStoreAPI\WatchStoreAPI\obj\Debug\net6.0\ref\WatchStoreAPI.dll
 C:\Users\Laith\Source\Repos\WatchStoreAPI\WatchStoreAPI\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
 C:\Users\Laith\Source\Repos\WatchStoreAPI\WatchStoreAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Laith\Source\Repos\WatchStoreAPI\WatchStoreAPI\obj\Debug\net6.0\WatchStoreAPI.sourcelink.json
+C:\Users\Laith\Source\Repos\WatchStoreAPI\WatchStoreAPI\bin\Debug\net6.0\WatchStoreAPI.staticwebassets.runtime.json
+C:\Users\Laith\Source\Repos\WatchStoreAPI\WatchStoreAPI\bin\Debug\net6.0\Newtonsoft.Json.dll

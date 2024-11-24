@@ -2,8 +2,11 @@
 using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
+using Microsoft.Extensions.FileProviders;
 using Microsoft.IdentityModel.Tokens;
+using Microsoft.OpenApi.Models;
 using System.Text;
+using System.Text.Json.Serialization;
 using Watchs_Store.Seeder;
 using WatchStoreAPI.Data;
 using WatchStoreAPI.Models;
@@ -19,8 +22,9 @@ builder.Services.AddDbContext<appDbContext>(option =>
     {
         option.UseSqlServer(builder.Configuration.GetConnectionString("MyConnection"));
     });
-//2-For Repository
+//2-For Repository pattren
 builder.Services.AddTransient(typeof(IRepository<>), typeof(ImplementRepo<>));
+builder.Services.AddTransient<ICartRepository,CartRepoImplement>();
 //3-For Cors Services
 builder.Services.AddCors(builderOption =>
 {
@@ -30,7 +34,7 @@ builder.Services.AddCors(builderOption =>
     });
 });
 //4-For Identity
-builder.Services.AddIdentity<AspNetUser, IdentityRole>(option =>
+builder.Services.AddIdentity<ApplicationUser, IdentityRole>(option =>
 {
     option.Password.RequireUppercase = false;
     option.Password.RequireLowercase = false;
@@ -38,7 +42,7 @@ builder.Services.AddIdentity<AspNetUser, IdentityRole>(option =>
     option.Password.RequiredLength = 5;
     option.Password.RequireDigit = false;
     option.Password.RequireNonAlphanumeric = false;
-}).AddEntityFrameworkStores<appDbContext>();
+}).AddEntityFrameworkStores<appDbContext>().AddDefaultTokenProviders();
 //5-[Authorized] used JWT token instead cookies
 builder.Services.AddAuthentication(option =>
 {
@@ -65,9 +69,39 @@ option.DefaultChallengeScheme = JwtBearerDefaults.AuthenticationScheme;
 //6-For Seed Admin
 builder.Services.AddTransient<AdminSeeder>();
 
-builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
-builder.Services.AddSwaggerGen();
+
+//swager authentication
+// ÅÖÇÝÉ ÎÏãÇÊ Swagger
+builder.Services.AddControllers();
+
+builder.Services.AddSwaggerGen(c =>
+{
+    c.SwaggerDoc("v1", new OpenApiInfo { Title = "dotnetClaimAuthorization", Version = "v1" });
+    c.AddSecurityDefinition(name: JwtBearerDefaults.AuthenticationScheme, securityScheme: new OpenApiSecurityScheme
+    {
+        Name = "Authorization",
+        Description = "Enter 'Bearer' [space] and then your valid token",
+        In = ParameterLocation.Header,
+        Type = SecuritySchemeType.ApiKey,
+        Scheme = "Bearer"
+    });
+
+    c.AddSecurityRequirement(new OpenApiSecurityRequirement
+    {
+        {
+            new OpenApiSecurityScheme
+            {
+                Reference = new OpenApiReference
+                {
+                    Type = ReferenceType.SecurityScheme,
+                    Id = JwtBearerDefaults.AuthenticationScheme
+                }
+            },
+            new string[] {}
+        }
+    });
+});
 
 var app = builder.Build();
 //6-For Seed Admin
@@ -86,17 +120,25 @@ using (var scope = app.Services.CreateScope())
     }
 }
 
+
 if (app.Environment.IsDevelopment())
 {
     app.UseSwagger();
     app.UseSwaggerUI();
 }
+//7-for images
+app.UseStaticFiles(new StaticFileOptions
+{
+    FileProvider = new PhysicalFileProvider(Path.Combine(Directory.GetCurrentDirectory(), "wwwroot", "Images")),
+    RequestPath = "/images"
+});
+
+app.UseCors("MyPolicy");
 
 app.UseHttpsRedirection();
 
-
+app.UseAuthentication();
 app.UseAuthorization();
 
 app.MapControllers();
-
 app.Run();

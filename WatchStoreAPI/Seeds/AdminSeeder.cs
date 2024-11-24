@@ -10,11 +10,11 @@
 
     public class AdminSeeder
     {
-        private readonly UserManager<AspNetUser> _userManager;
+        private readonly UserManager<ApplicationUser> _userManager;
         private readonly RoleManager<IdentityRole> _roleManager;
         private readonly ILogger<AdminSeeder> _logger;
 
-        public AdminSeeder(UserManager<AspNetUser> userManager, RoleManager<IdentityRole> roleManager, ILogger<AdminSeeder> logger)
+        public AdminSeeder(UserManager<ApplicationUser> userManager, RoleManager<IdentityRole> roleManager, ILogger<AdminSeeder> logger)
         {
             _userManager = userManager;
             _roleManager = roleManager;
@@ -39,10 +39,10 @@
 
                 if (!_userManager.Users.Any())
                 {
-                    var admin = new AspNetUser
+                    var admin = new ApplicationUser
                     {
                         UserName = "Admin",
-                        Name = "Admin",
+                        name = "Admin",
                         Email = "Admin@admin.com",
                         EmailConfirmed = true
                     };

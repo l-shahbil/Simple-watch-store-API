@@ -1,0 +1,29 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Laith\\Source\\Repos\\WatchStoreAPI\\WatchStoreAPI\\wwwroot\\images\\a7eec693-917d-4b85-afca-2bb42873176fAppleWatch.png",
+      "PackagePath": "staticwebassets\\images\\a7eec693-917d-4b85-afca-2bb42873176fAppleWatch.png"
+    },
+    {
+      "Id": "C:\\Users\\Laith\\Source\\Repos\\WatchStoreAPI\\WatchStoreAPI\\wwwroot\\images\\cd735fcc-76ba-4938-a46a-6ef026df957aAppleWatch.png",
+      "PackagePath": "staticwebassets\\images\\cd735fcc-76ba-4938-a46a-6ef026df957aAppleWatch.png"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.WatchStoreAPI.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.WatchStoreAPI.props",
+      "PackagePath": "build\\WatchStoreAPI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.WatchStoreAPI.props",
+      "PackagePath": "buildMultiTargeting\\WatchStoreAPI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.WatchStoreAPI.props",
+      "PackagePath": "buildTransitive\\WatchStoreAPI.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
