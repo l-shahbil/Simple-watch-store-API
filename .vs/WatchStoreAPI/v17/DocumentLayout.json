@@ -3,97 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\Laith\\Source\\Repos\\WatchStoreAPI\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C71B7B8A-4453-4990-B8C9-7A39C8EEB677}|WatchStoreAPI\\WatchStoreAPI.csproj|c:\\users\\laith\\source\\repos\\watchstoreapi\\watchstoreapi\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C71B7B8A-4453-4990-B8C9-7A39C8EEB677}|WatchStoreAPI\\WatchStoreAPI.csproj|solutionrelative:watchstoreapi\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/desktop_1vtl0dn/Watches_Store_MVCC/True/SqlTable/dbo.cartItems.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C71B7B8A-4453-4990-B8C9-7A39C8EEB677}|WatchStoreAPI\\WatchStoreAPI.csproj|c:\\users\\laith\\source\\repos\\watchstoreapi\\watchstoreapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C71B7B8A-4453-4990-B8C9-7A39C8EEB677}|WatchStoreAPI\\WatchStoreAPI.csproj|solutionrelative:watchstoreapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C71B7B8A-4453-4990-B8C9-7A39C8EEB677}|WatchStoreAPI\\WatchStoreAPI.csproj|c:\\users\\laith\\source\\repos\\watchstoreapi\\watchstoreapi\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C71B7B8A-4453-4990-B8C9-7A39C8EEB677}|WatchStoreAPI\\WatchStoreAPI.csproj|solutionrelative:watchstoreapi\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{C71B7B8A-4453-4990-B8C9-7A39C8EEB677}|WatchStoreAPI\\WatchStoreAPI.csproj|c:\\users\\laith\\source\\repos\\watchstoreapi\\watchstoreapi\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C71B7B8A-4453-4990-B8C9-7A39C8EEB677}|WatchStoreAPI\\WatchStoreAPI.csproj|solutionrelative:watchstoreapi\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C71B7B8A-4453-4990-B8C9-7A39C8EEB677}|WatchStoreAPI\\WatchStoreAPI.csproj|c:\\users\\laith\\source\\repos\\watchstoreapi\\watchstoreapi\\models\\dto\\productdto\\productviewdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C71B7B8A-4453-4990-B8C9-7A39C8EEB677}|WatchStoreAPI\\WatchStoreAPI.csproj|solutionrelative:watchstoreapi\\models\\dto\\productdto\\productviewdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C71B7B8A-4453-4990-B8C9-7A39C8EEB677}|WatchStoreAPI\\WatchStoreAPI.csproj|c:\\users\\laith\\source\\repos\\watchstoreapi\\watchstoreapi\\models\\dto\\accountdto\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C71B7B8A-4453-4990-B8C9-7A39C8EEB677}|WatchStoreAPI\\WatchStoreAPI.csproj|solutionrelative:watchstoreapi\\models\\dto\\accountdto\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C71B7B8A-4453-4990-B8C9-7A39C8EEB677}|WatchStoreAPI\\WatchStoreAPI.csproj|c:\\users\\laith\\source\\repos\\watchstoreapi\\watchstoreapi\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C71B7B8A-4453-4990-B8C9-7A39C8EEB677}|WatchStoreAPI\\WatchStoreAPI.csproj|solutionrelative:watchstoreapi\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C71B7B8A-4453-4990-B8C9-7A39C8EEB677}|WatchStoreAPI\\WatchStoreAPI.csproj|c:\\users\\laith\\source\\repos\\watchstoreapi\\watchstoreapi\\models\\dto\\productdto\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C71B7B8A-4453-4990-B8C9-7A39C8EEB677}|WatchStoreAPI\\WatchStoreAPI.csproj|solutionrelative:watchstoreapi\\models\\dto\\productdto\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/desktop_1vtl0dn/Watches_Store_MVCC/True/SqlTable/dbo.carts.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C71B7B8A-4453-4990-B8C9-7A39C8EEB677}|WatchStoreAPI\\WatchStoreAPI.csproj|c:\\users\\laith\\source\\repos\\watchstoreapi\\watchstoreapi\\models\\dto\\accountdto\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C71B7B8A-4453-4990-B8C9-7A39C8EEB677}|WatchStoreAPI\\WatchStoreAPI.csproj|solutionrelative:watchstoreapi\\models\\dto\\accountdto\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C71B7B8A-4453-4990-B8C9-7A39C8EEB677}|WatchStoreAPI\\WatchStoreAPI.csproj|c:\\users\\laith\\source\\repos\\watchstoreapi\\watchstoreapi\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C71B7B8A-4453-4990-B8C9-7A39C8EEB677}|WatchStoreAPI\\WatchStoreAPI.csproj|solutionrelative:watchstoreapi\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C71B7B8A-4453-4990-B8C9-7A39C8EEB677}|WatchStoreAPI\\WatchStoreAPI.csproj|c:\\users\\laith\\source\\repos\\watchstoreapi\\watchstoreapi\\models\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C71B7B8A-4453-4990-B8C9-7A39C8EEB677}|WatchStoreAPI\\WatchStoreAPI.csproj|solutionrelative:watchstoreapi\\models\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C71B7B8A-4453-4990-B8C9-7A39C8EEB677}|WatchStoreAPI\\WatchStoreAPI.csproj|c:\\users\\laith\\source\\repos\\watchstoreapi\\watchstoreapi\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C71B7B8A-4453-4990-B8C9-7A39C8EEB677}|WatchStoreAPI\\WatchStoreAPI.csproj|solutionrelative:watchstoreapi\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C71B7B8A-4453-4990-B8C9-7A39C8EEB677}|WatchStoreAPI\\WatchStoreAPI.csproj|c:\\users\\laith\\source\\repos\\watchstoreapi\\watchstoreapi\\seeds\\adminseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C71B7B8A-4453-4990-B8C9-7A39C8EEB677}|WatchStoreAPI\\WatchStoreAPI.csproj|solutionrelative:watchstoreapi\\seeds\\adminseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C71B7B8A-4453-4990-B8C9-7A39C8EEB677}|WatchStoreAPI\\WatchStoreAPI.csproj|c:\\users\\laith\\source\\repos\\watchstoreapi\\watchstoreapi\\repository\\cartrepoimplement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C71B7B8A-4453-4990-B8C9-7A39C8EEB677}|WatchStoreAPI\\WatchStoreAPI.csproj|solutionrelative:watchstoreapi\\repository\\cartrepoimplement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C71B7B8A-4453-4990-B8C9-7A39C8EEB677}|WatchStoreAPI\\WatchStoreAPI.csproj|c:\\users\\laith\\source\\repos\\watchstoreapi\\watchstoreapi\\repository\\implementrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C71B7B8A-4453-4990-B8C9-7A39C8EEB677}|WatchStoreAPI\\WatchStoreAPI.csproj|solutionrelative:watchstoreapi\\repository\\implementrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C71B7B8A-4453-4990-B8C9-7A39C8EEB677}|WatchStoreAPI\\WatchStoreAPI.csproj|c:\\users\\laith\\source\\repos\\watchstoreapi\\watchstoreapi\\repository\\base\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C71B7B8A-4453-4990-B8C9-7A39C8EEB677}|WatchStoreAPI\\WatchStoreAPI.csproj|solutionrelative:watchstoreapi\\repository\\base\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C71B7B8A-4453-4990-B8C9-7A39C8EEB677}|WatchStoreAPI\\WatchStoreAPI.csproj|c:\\users\\laith\\source\\repos\\watchstoreapi\\watchstoreapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{C71B7B8A-4453-4990-B8C9-7A39C8EEB677}|WatchStoreAPI\\WatchStoreAPI.csproj|solutionrelative:watchstoreapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C71B7B8A-4453-4990-B8C9-7A39C8EEB677}|WatchStoreAPI\\WatchStoreAPI.csproj|c:\\users\\laith\\source\\repos\\watchstoreapi\\watchstoreapi\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C71B7B8A-4453-4990-B8C9-7A39C8EEB677}|WatchStoreAPI\\WatchStoreAPI.csproj|solutionrelative:watchstoreapi\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C71B7B8A-4453-4990-B8C9-7A39C8EEB677}|WatchStoreAPI\\WatchStoreAPI.csproj|c:\\users\\laith\\source\\repos\\watchstoreapi\\watchstoreapi\\repository\\base\\icartrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C71B7B8A-4453-4990-B8C9-7A39C8EEB677}|WatchStoreAPI\\WatchStoreAPI.csproj|solutionrelative:watchstoreapi\\repository\\base\\icartrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C71B7B8A-4453-4990-B8C9-7A39C8EEB677}|WatchStoreAPI\\WatchStoreAPI.csproj|c:\\users\\laith\\source\\repos\\watchstoreapi\\watchstoreapi\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C71B7B8A-4453-4990-B8C9-7A39C8EEB677}|WatchStoreAPI\\WatchStoreAPI.csproj|solutionrelative:watchstoreapi\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C71B7B8A-4453-4990-B8C9-7A39C8EEB677}|WatchStoreAPI\\WatchStoreAPI.csproj|c:\\users\\laith\\source\\repos\\watchstoreapi\\watchstoreapi\\models\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C71B7B8A-4453-4990-B8C9-7A39C8EEB677}|WatchStoreAPI\\WatchStoreAPI.csproj|solutionrelative:watchstoreapi\\models\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C71B7B8A-4453-4990-B8C9-7A39C8EEB677}|WatchStoreAPI\\WatchStoreAPI.csproj|c:\\users\\laith\\source\\repos\\watchstoreapi\\watchstoreapi\\models\\dto\\cartdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C71B7B8A-4453-4990-B8C9-7A39C8EEB677}|WatchStoreAPI\\WatchStoreAPI.csproj|solutionrelative:watchstoreapi\\models\\dto\\cartdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/desktop_1vtl0dn/Watches_Store_MVCC/True/SqlTable/dbo.Products.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+      "AbsoluteMoniker": "D:0:0:{C71B7B8A-4453-4990-B8C9-7A39C8EEB677}|WatchStoreAPI\\WatchStoreAPI.csproj|c:\\users\\laith\\source\\repos\\watchstoreapi\\watchstoreapi\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C71B7B8A-4453-4990-B8C9-7A39C8EEB677}|WatchStoreAPI\\WatchStoreAPI.csproj|solutionrelative:watchstoreapi\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -103,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -111,305 +34,55 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "RegisterDTO.cs",
-              "DocumentMoniker": "C:\\Users\\Laith\\Source\\Repos\\WatchStoreAPI\\WatchStoreAPI\\Models\\DTO\\AccountDto\\RegisterDTO.cs",
-              "RelativeDocumentMoniker": "WatchStoreAPI\\Models\\DTO\\AccountDto\\RegisterDTO.cs",
-              "ToolTip": "C:\\Users\\Laith\\Source\\Repos\\WatchStoreAPI\\WatchStoreAPI\\Models\\DTO\\AccountDto\\RegisterDTO.cs",
-              "RelativeToolTip": "WatchStoreAPI\\Models\\DTO\\AccountDto\\RegisterDTO.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAoAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-24T08:29:50.071Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "loginDTO.cs",
-              "DocumentMoniker": "C:\\Users\\Laith\\Source\\Repos\\WatchStoreAPI\\WatchStoreAPI\\Models\\DTO\\AccountDto\\loginDTO.cs",
-              "RelativeDocumentMoniker": "WatchStoreAPI\\Models\\DTO\\AccountDto\\loginDTO.cs",
-              "ToolTip": "C:\\Users\\Laith\\Source\\Repos\\WatchStoreAPI\\WatchStoreAPI\\Models\\DTO\\AccountDto\\loginDTO.cs",
-              "RelativeToolTip": "WatchStoreAPI\\Models\\DTO\\AccountDto\\loginDTO.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-24T08:20:01.925Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ProductController.cs",
-              "DocumentMoniker": "C:\\Users\\Laith\\Source\\Repos\\WatchStoreAPI\\WatchStoreAPI\\Controllers\\ProductController.cs",
-              "RelativeDocumentMoniker": "WatchStoreAPI\\Controllers\\ProductController.cs",
-              "ToolTip": "C:\\Users\\Laith\\Source\\Repos\\WatchStoreAPI\\WatchStoreAPI\\Controllers\\ProductController.cs",
-              "RelativeToolTip": "WatchStoreAPI\\Controllers\\ProductController.cs",
-              "ViewState": "AQIAAA4AAAAAmZmZmZkJwC4AAAAoAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-24T08:39:25.268Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "CartController.cs",
               "DocumentMoniker": "C:\\Users\\Laith\\Source\\Repos\\WatchStoreAPI\\WatchStoreAPI\\Controllers\\CartController.cs",
               "RelativeDocumentMoniker": "WatchStoreAPI\\Controllers\\CartController.cs",
-              "ToolTip": "C:\\Users\\Laith\\Source\\Repos\\WatchStoreAPI\\WatchStoreAPI\\Controllers\\CartController.cs*",
-              "RelativeToolTip": "WatchStoreAPI\\Controllers\\CartController.cs*",
-              "ViewState": "AQIAABIAAAAAAAAAAAAQwCMAAAARAAAA",
+              "ToolTip": "C:\\Users\\Laith\\Source\\Repos\\WatchStoreAPI\\WatchStoreAPI\\Controllers\\CartController.cs",
+              "RelativeToolTip": "WatchStoreAPI\\Controllers\\CartController.cs",
+              "ViewState": "AQIAADgAAACAmZmZmZkRwBMAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-24T16:23:53.169Z",
+              "WhenOpened": "2024-11-25T07:54:04.478Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "dbo.cartItems [Data]",
-              "DocumentMoniker": "ViewDataWindow_MSSQL__/desktop_1vtl0dn/Watches_Store_MVCC/True/SqlTable/dbo.cartItems.sql",
-              "ToolTip": "dbo.cartItems [Data]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2024-11-24T19:27:14.718Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "ProductViewDto.cs",
-              "DocumentMoniker": "C:\\Users\\Laith\\Source\\Repos\\WatchStoreAPI\\WatchStoreAPI\\Models\\DTO\\productDto\\ProductViewDto.cs",
-              "RelativeDocumentMoniker": "WatchStoreAPI\\Models\\DTO\\productDto\\ProductViewDto.cs",
-              "ToolTip": "C:\\Users\\Laith\\Source\\Repos\\WatchStoreAPI\\WatchStoreAPI\\Models\\DTO\\productDto\\ProductViewDto.cs",
-              "RelativeToolTip": "WatchStoreAPI\\Models\\DTO\\productDto\\ProductViewDto.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAApAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-24T19:11:05.661Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Laith\\Source\\Repos\\WatchStoreAPI\\WatchStoreAPI\\Program.cs",
-              "RelativeDocumentMoniker": "WatchStoreAPI\\Program.cs",
-              "ToolTip": "C:\\Users\\Laith\\Source\\Repos\\WatchStoreAPI\\WatchStoreAPI\\Program.cs",
-              "RelativeToolTip": "WatchStoreAPI\\Program.cs",
-              "ViewState": "AQIAAA0AAAAAaGZmZmbmvxkAAABCAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-23T11:40:07.344Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "AccountController.cs",
-              "DocumentMoniker": "C:\\Users\\Laith\\Source\\Repos\\WatchStoreAPI\\WatchStoreAPI\\Controllers\\AccountController.cs",
-              "RelativeDocumentMoniker": "WatchStoreAPI\\Controllers\\AccountController.cs",
-              "ToolTip": "C:\\Users\\Laith\\Source\\Repos\\WatchStoreAPI\\WatchStoreAPI\\Controllers\\AccountController.cs",
-              "RelativeToolTip": "WatchStoreAPI\\Controllers\\AccountController.cs",
-              "ViewState": "AQIAABAAAAAAAAAAAAAiwDIAAAAIAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-24T08:20:06.721Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "ImplementRepo.cs",
-              "DocumentMoniker": "C:\\Users\\Laith\\Source\\Repos\\WatchStoreAPI\\WatchStoreAPI\\Repository\\ImplementRepo.cs",
-              "RelativeDocumentMoniker": "WatchStoreAPI\\Repository\\ImplementRepo.cs",
-              "ToolTip": "C:\\Users\\Laith\\Source\\Repos\\WatchStoreAPI\\WatchStoreAPI\\Repository\\ImplementRepo.cs",
-              "RelativeToolTip": "WatchStoreAPI\\Repository\\ImplementRepo.cs",
-              "ViewState": "AQIAACsAAAAAAAAAAAAcwBIAAAAMAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-24T12:56:36.47Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "dbo.carts [Data]",
-              "DocumentMoniker": "ViewDataWindow_MSSQL__/desktop_1vtl0dn/Watches_Store_MVCC/True/SqlTable/dbo.carts.sql",
-              "ToolTip": "dbo.carts [Data]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2024-11-24T19:08:33.004Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "IRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Laith\\Source\\Repos\\WatchStoreAPI\\WatchStoreAPI\\Repository\\Base\\IRepository.cs",
-              "RelativeDocumentMoniker": "WatchStoreAPI\\Repository\\Base\\IRepository.cs",
-              "ToolTip": "C:\\Users\\Laith\\Source\\Repos\\WatchStoreAPI\\WatchStoreAPI\\Repository\\Base\\IRepository.cs",
-              "RelativeToolTip": "WatchStoreAPI\\Repository\\Base\\IRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAoAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-24T12:56:29.601Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Product.cs",
-              "DocumentMoniker": "C:\\Users\\Laith\\Source\\Repos\\WatchStoreAPI\\WatchStoreAPI\\Models\\Product.cs",
-              "RelativeDocumentMoniker": "WatchStoreAPI\\Models\\Product.cs",
-              "ToolTip": "C:\\Users\\Laith\\Source\\Repos\\WatchStoreAPI\\WatchStoreAPI\\Models\\Product.cs",
-              "RelativeToolTip": "WatchStoreAPI\\Models\\Product.cs",
-              "ViewState": "AQIAAA8AAAAAAAAAAAAAABEAAAAIAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-24T13:05:45.497Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Cart.cs",
-              "DocumentMoniker": "C:\\Users\\Laith\\Source\\Repos\\WatchStoreAPI\\WatchStoreAPI\\Models\\Cart.cs",
-              "RelativeDocumentMoniker": "WatchStoreAPI\\Models\\Cart.cs",
-              "ToolTip": "C:\\Users\\Laith\\Source\\Repos\\WatchStoreAPI\\WatchStoreAPI\\Models\\Cart.cs",
-              "RelativeToolTip": "WatchStoreAPI\\Models\\Cart.cs",
-              "ViewState": "AQIAAAoAAAAAAAAAAAAUwBcAAAAeAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-24T13:01:01.654Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "ProductDto.cs",
-              "DocumentMoniker": "C:\\Users\\Laith\\Source\\Repos\\WatchStoreAPI\\WatchStoreAPI\\Models\\DTO\\productDto\\ProductDto.cs",
-              "RelativeDocumentMoniker": "WatchStoreAPI\\Models\\DTO\\productDto\\ProductDto.cs",
-              "ToolTip": "C:\\Users\\Laith\\Source\\Repos\\WatchStoreAPI\\WatchStoreAPI\\Models\\DTO\\productDto\\ProductDto.cs",
-              "RelativeToolTip": "WatchStoreAPI\\Models\\DTO\\productDto\\ProductDto.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAASAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-24T13:50:08.216Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "AdminSeeder.cs",
-              "DocumentMoniker": "C:\\Users\\Laith\\Source\\Repos\\WatchStoreAPI\\WatchStoreAPI\\Seeds\\AdminSeeder.cs",
-              "RelativeDocumentMoniker": "WatchStoreAPI\\Seeds\\AdminSeeder.cs",
-              "ToolTip": "C:\\Users\\Laith\\Source\\Repos\\WatchStoreAPI\\WatchStoreAPI\\Seeds\\AdminSeeder.cs",
-              "RelativeToolTip": "WatchStoreAPI\\Seeds\\AdminSeeder.cs",
-              "ViewState": "AQIAACMAAAAAzMzMzMwEwCwAAAAcAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-24T13:01:59.349Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "appDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\Laith\\Source\\Repos\\WatchStoreAPI\\WatchStoreAPI\\Data\\appDbContext.cs",
-              "RelativeDocumentMoniker": "WatchStoreAPI\\Data\\appDbContext.cs",
-              "ToolTip": "C:\\Users\\Laith\\Source\\Repos\\WatchStoreAPI\\WatchStoreAPI\\Data\\appDbContext.cs",
-              "RelativeToolTip": "WatchStoreAPI\\Data\\appDbContext.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAIwA0AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-24T13:01:14.204Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "ApplicationUser.cs",
-              "DocumentMoniker": "C:\\Users\\Laith\\Source\\Repos\\WatchStoreAPI\\WatchStoreAPI\\Models\\ApplicationUser.cs",
-              "RelativeDocumentMoniker": "WatchStoreAPI\\Models\\ApplicationUser.cs",
-              "ToolTip": "C:\\Users\\Laith\\Source\\Repos\\WatchStoreAPI\\WatchStoreAPI\\Models\\ApplicationUser.cs",
-              "RelativeToolTip": "WatchStoreAPI\\Models\\ApplicationUser.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAtAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-24T18:35:52.074Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "CartRepoImplement.cs",
-              "DocumentMoniker": "C:\\Users\\Laith\\Source\\Repos\\WatchStoreAPI\\WatchStoreAPI\\Repository\\CartRepoImplement.cs",
-              "RelativeDocumentMoniker": "WatchStoreAPI\\Repository\\CartRepoImplement.cs",
-              "ToolTip": "C:\\Users\\Laith\\Source\\Repos\\WatchStoreAPI\\WatchStoreAPI\\Repository\\CartRepoImplement.cs",
-              "RelativeToolTip": "WatchStoreAPI\\Repository\\CartRepoImplement.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAADEAAAAUAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-24T16:36:10.639Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
               "Title": "AdminController.cs",
               "DocumentMoniker": "C:\\Users\\Laith\\Source\\Repos\\WatchStoreAPI\\WatchStoreAPI\\Controllers\\AdminController.cs",
               "RelativeDocumentMoniker": "WatchStoreAPI\\Controllers\\AdminController.cs",
               "ToolTip": "C:\\Users\\Laith\\Source\\Repos\\WatchStoreAPI\\WatchStoreAPI\\Controllers\\AdminController.cs",
               "RelativeToolTip": "WatchStoreAPI\\Controllers\\AdminController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAEgAAAAAAAAAAAAAwDsAAAAeAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-24T12:52:08.881Z",
+              "WhenOpened": "2024-11-24T22:10:57.017Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\Laith\\Source\\Repos\\WatchStoreAPI\\WatchStoreAPI\\appsettings.json",
-              "RelativeDocumentMoniker": "WatchStoreAPI\\appsettings.json",
-              "ToolTip": "C:\\Users\\Laith\\Source\\Repos\\WatchStoreAPI\\WatchStoreAPI\\appsettings.json",
-              "RelativeToolTip": "WatchStoreAPI\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAApAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-11-24T16:11:21.836Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "ICartRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Laith\\Source\\Repos\\WatchStoreAPI\\WatchStoreAPI\\Repository\\Base\\ICartRepository.cs",
-              "RelativeDocumentMoniker": "WatchStoreAPI\\Repository\\Base\\ICartRepository.cs",
-              "ToolTip": "C:\\Users\\Laith\\Source\\Repos\\WatchStoreAPI\\WatchStoreAPI\\Repository\\Base\\ICartRepository.cs",
-              "RelativeToolTip": "WatchStoreAPI\\Repository\\Base\\ICartRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAA5AAAA",
+              "DocumentIndex": 0,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\Laith\\Source\\Repos\\WatchStoreAPI\\WatchStoreAPI\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "WatchStoreAPI\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\Laith\\Source\\Repos\\WatchStoreAPI\\WatchStoreAPI\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "WatchStoreAPI\\Controllers\\ProductController.cs",
+              "ViewState": "AQIAADgAAAAgZmZmZmYmwAMAAAAbAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-24T16:33:38.668Z",
+              "WhenOpened": "2024-11-24T21:59:35.177Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "CartItem.cs",
-              "DocumentMoniker": "C:\\Users\\Laith\\Source\\Repos\\WatchStoreAPI\\WatchStoreAPI\\Models\\CartItem.cs",
-              "RelativeDocumentMoniker": "WatchStoreAPI\\Models\\CartItem.cs",
-              "ToolTip": "C:\\Users\\Laith\\Source\\Repos\\WatchStoreAPI\\WatchStoreAPI\\Models\\CartItem.cs",
-              "RelativeToolTip": "WatchStoreAPI\\Models\\CartItem.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAABFwAAAAAAAAAAA",
+              "DocumentIndex": 2,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\Laith\\Source\\Repos\\WatchStoreAPI\\WatchStoreAPI\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "WatchStoreAPI\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\Laith\\Source\\Repos\\WatchStoreAPI\\WatchStoreAPI\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "WatchStoreAPI\\Controllers\\AccountController.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAADgvycAAAAlAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-24T17:55:42.521Z",
+              "WhenOpened": "2024-11-24T21:57:03.874Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "CartDto.cs",
-              "DocumentMoniker": "C:\\Users\\Laith\\Source\\Repos\\WatchStoreAPI\\WatchStoreAPI\\Models\\DTO\\CartDto.cs",
-              "RelativeDocumentMoniker": "WatchStoreAPI\\Models\\DTO\\CartDto.cs",
-              "ToolTip": "C:\\Users\\Laith\\Source\\Repos\\WatchStoreAPI\\WatchStoreAPI\\Models\\DTO\\CartDto.cs",
-              "RelativeToolTip": "WatchStoreAPI\\Models\\DTO\\CartDto.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAVAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-24T17:01:45.454Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "dbo.Products [Data]",
-              "DocumentMoniker": "ViewDataWindow_MSSQL__/desktop_1vtl0dn/Watches_Store_MVCC/True/SqlTable/dbo.Products.sql",
-              "ToolTip": "dbo.Products [Data]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2024-11-24T14:56:38.599Z"
             }
           ]
         }

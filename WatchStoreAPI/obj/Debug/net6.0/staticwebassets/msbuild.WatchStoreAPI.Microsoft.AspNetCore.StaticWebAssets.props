@@ -1,11 +1,11 @@
 ﻿<Project>
   <ItemGroup>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\images\a7eec693-917d-4b85-afca-2bb42873176fAppleWatch.png))">
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\images\2ae5120f-6f55-42b7-a552-a3a4de39f921Rolex.jpg))">
       <SourceType>Package</SourceType>
       <SourceId>WatchStoreAPI</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
       <BasePath>_content/WatchStoreAPI</BasePath>
-      <RelativePath>images/a7eec693-917d-4b85-afca-2bb42873176fAppleWatch.png</RelativePath>
+      <RelativePath>images/2ae5120f-6f55-42b7-a552-a3a4de39f921Rolex.jpg</RelativePath>
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
       <AssetRole>Primary</AssetRole>
@@ -14,14 +14,14 @@
       <AssetTraitValue></AssetTraitValue>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\images\a7eec693-917d-4b85-afca-2bb42873176fAppleWatch.png))</OriginalItemSpec>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\images\2ae5120f-6f55-42b7-a552-a3a4de39f921Rolex.jpg))</OriginalItemSpec>
     </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\images\cd735fcc-76ba-4938-a46a-6ef026df957aAppleWatch.png))">
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\images\6d475aa8-ae04-4ee3-a45e-d419a6af8071AppleWatch.png))">
       <SourceType>Package</SourceType>
       <SourceId>WatchStoreAPI</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
       <BasePath>_content/WatchStoreAPI</BasePath>
-      <RelativePath>images/cd735fcc-76ba-4938-a46a-6ef026df957aAppleWatch.png</RelativePath>
+      <RelativePath>images/6d475aa8-ae04-4ee3-a45e-d419a6af8071AppleWatch.png</RelativePath>
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
       <AssetRole>Primary</AssetRole>
@@ -30,7 +30,55 @@
       <AssetTraitValue></AssetTraitValue>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\images\cd735fcc-76ba-4938-a46a-6ef026df957aAppleWatch.png))</OriginalItemSpec>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\images\6d475aa8-ae04-4ee3-a45e-d419a6af8071AppleWatch.png))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\images\7b6f3f82-2ebf-464c-91cd-b03a50ff11c3AppleWatch.png))">
+      <SourceType>Package</SourceType>
+      <SourceId>WatchStoreAPI</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/WatchStoreAPI</BasePath>
+      <RelativePath>images/7b6f3f82-2ebf-464c-91cd-b03a50ff11c3AppleWatch.png</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\images\7b6f3f82-2ebf-464c-91cd-b03a50ff11c3AppleWatch.png))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\images\e4368fb8-d70f-41aa-a44f-e4df2df71961AppleWatch.png))">
+      <SourceType>Package</SourceType>
+      <SourceId>WatchStoreAPI</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/WatchStoreAPI</BasePath>
+      <RelativePath>images/e4368fb8-d70f-41aa-a44f-e4df2df71961AppleWatch.png</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\images\e4368fb8-d70f-41aa-a44f-e4df2df71961AppleWatch.png))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\images\ecddbf02-c6a9-474f-89d8-4e73c4c1a902Luliz.jpg))">
+      <SourceType>Package</SourceType>
+      <SourceId>WatchStoreAPI</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/WatchStoreAPI</BasePath>
+      <RelativePath>images/ecddbf02-c6a9-474f-89d8-4e73c4c1a902Luliz.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\images\ecddbf02-c6a9-474f-89d8-4e73c4c1a902Luliz.jpg))</OriginalItemSpec>
     </StaticWebAsset>
   </ItemGroup>
 </Project>

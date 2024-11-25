@@ -1,12 +1,24 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\Laith\\Source\\Repos\\WatchStoreAPI\\WatchStoreAPI\\wwwroot\\images\\a7eec693-917d-4b85-afca-2bb42873176fAppleWatch.png",
-      "PackagePath": "staticwebassets\\images\\a7eec693-917d-4b85-afca-2bb42873176fAppleWatch.png"
+      "Id": "C:\\Users\\Laith\\Source\\Repos\\WatchStoreAPI\\WatchStoreAPI\\wwwroot\\images\\2ae5120f-6f55-42b7-a552-a3a4de39f921Rolex.jpg",
+      "PackagePath": "staticwebassets\\images\\2ae5120f-6f55-42b7-a552-a3a4de39f921Rolex.jpg"
     },
     {
-      "Id": "C:\\Users\\Laith\\Source\\Repos\\WatchStoreAPI\\WatchStoreAPI\\wwwroot\\images\\cd735fcc-76ba-4938-a46a-6ef026df957aAppleWatch.png",
-      "PackagePath": "staticwebassets\\images\\cd735fcc-76ba-4938-a46a-6ef026df957aAppleWatch.png"
+      "Id": "C:\\Users\\Laith\\Source\\Repos\\WatchStoreAPI\\WatchStoreAPI\\wwwroot\\images\\6d475aa8-ae04-4ee3-a45e-d419a6af8071AppleWatch.png",
+      "PackagePath": "staticwebassets\\images\\6d475aa8-ae04-4ee3-a45e-d419a6af8071AppleWatch.png"
+    },
+    {
+      "Id": "C:\\Users\\Laith\\Source\\Repos\\WatchStoreAPI\\WatchStoreAPI\\wwwroot\\images\\7b6f3f82-2ebf-464c-91cd-b03a50ff11c3AppleWatch.png",
+      "PackagePath": "staticwebassets\\images\\7b6f3f82-2ebf-464c-91cd-b03a50ff11c3AppleWatch.png"
+    },
+    {
+      "Id": "C:\\Users\\Laith\\Source\\Repos\\WatchStoreAPI\\WatchStoreAPI\\wwwroot\\images\\e4368fb8-d70f-41aa-a44f-e4df2df71961AppleWatch.png",
+      "PackagePath": "staticwebassets\\images\\e4368fb8-d70f-41aa-a44f-e4df2df71961AppleWatch.png"
+    },
+    {
+      "Id": "C:\\Users\\Laith\\Source\\Repos\\WatchStoreAPI\\WatchStoreAPI\\wwwroot\\images\\ecddbf02-c6a9-474f-89d8-4e73c4c1a902Luliz.jpg",
+      "PackagePath": "staticwebassets\\images\\ecddbf02-c6a9-474f-89d8-4e73c4c1a902Luliz.jpg"
     },
     {
       "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.WatchStoreAPI.Microsoft.AspNetCore.StaticWebAssets.props",

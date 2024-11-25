@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "y7hhcV46jKh+6QIcryYhM7W6y5uPqv0cn2ECzWzoVtQ=",
+  "Hash": "iABcBHW19Agr8SAjjRy1eAOrUoBE2MLC/YS67ZayR9w=",
   "Source": "WatchStoreAPI",
   "BasePath": "_content/WatchStoreAPI",
   "Mode": "Default",
@@ -17,12 +17,12 @@
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\Laith\\Source\\Repos\\WatchStoreAPI\\WatchStoreAPI\\wwwroot\\images\\a7eec693-917d-4b85-afca-2bb42873176fAppleWatch.png",
+      "Identity": "C:\\Users\\Laith\\Source\\Repos\\WatchStoreAPI\\WatchStoreAPI\\wwwroot\\images\\2ae5120f-6f55-42b7-a552-a3a4de39f921Rolex.jpg",
       "SourceId": "WatchStoreAPI",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Laith\\Source\\Repos\\WatchStoreAPI\\WatchStoreAPI\\wwwroot\\",
       "BasePath": "_content/WatchStoreAPI",
-      "RelativePath": "images/a7eec693-917d-4b85-afca-2bb42873176fAppleWatch.png",
+      "RelativePath": "images/2ae5120f-6f55-42b7-a552-a3a4de39f921Rolex.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -33,15 +33,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\a7eec693-917d-4b85-afca-2bb42873176fAppleWatch.png"
+      "OriginalItemSpec": "wwwroot\\images\\2ae5120f-6f55-42b7-a552-a3a4de39f921Rolex.jpg"
     },
     {
-      "Identity": "C:\\Users\\Laith\\Source\\Repos\\WatchStoreAPI\\WatchStoreAPI\\wwwroot\\images\\cd735fcc-76ba-4938-a46a-6ef026df957aAppleWatch.png",
+      "Identity": "C:\\Users\\Laith\\Source\\Repos\\WatchStoreAPI\\WatchStoreAPI\\wwwroot\\images\\6d475aa8-ae04-4ee3-a45e-d419a6af8071AppleWatch.png",
       "SourceId": "WatchStoreAPI",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Laith\\Source\\Repos\\WatchStoreAPI\\WatchStoreAPI\\wwwroot\\",
       "BasePath": "_content/WatchStoreAPI",
-      "RelativePath": "images/cd735fcc-76ba-4938-a46a-6ef026df957aAppleWatch.png",
+      "RelativePath": "images/6d475aa8-ae04-4ee3-a45e-d419a6af8071AppleWatch.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -52,7 +52,64 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\cd735fcc-76ba-4938-a46a-6ef026df957aAppleWatch.png"
+      "OriginalItemSpec": "wwwroot\\images\\6d475aa8-ae04-4ee3-a45e-d419a6af8071AppleWatch.png"
+    },
+    {
+      "Identity": "C:\\Users\\Laith\\Source\\Repos\\WatchStoreAPI\\WatchStoreAPI\\wwwroot\\images\\7b6f3f82-2ebf-464c-91cd-b03a50ff11c3AppleWatch.png",
+      "SourceId": "WatchStoreAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Laith\\Source\\Repos\\WatchStoreAPI\\WatchStoreAPI\\wwwroot\\",
+      "BasePath": "_content/WatchStoreAPI",
+      "RelativePath": "images/7b6f3f82-2ebf-464c-91cd-b03a50ff11c3AppleWatch.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\7b6f3f82-2ebf-464c-91cd-b03a50ff11c3AppleWatch.png"
+    },
+    {
+      "Identity": "C:\\Users\\Laith\\Source\\Repos\\WatchStoreAPI\\WatchStoreAPI\\wwwroot\\images\\e4368fb8-d70f-41aa-a44f-e4df2df71961AppleWatch.png",
+      "SourceId": "WatchStoreAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Laith\\Source\\Repos\\WatchStoreAPI\\WatchStoreAPI\\wwwroot\\",
+      "BasePath": "_content/WatchStoreAPI",
+      "RelativePath": "images/e4368fb8-d70f-41aa-a44f-e4df2df71961AppleWatch.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\e4368fb8-d70f-41aa-a44f-e4df2df71961AppleWatch.png"
+    },
+    {
+      "Identity": "C:\\Users\\Laith\\Source\\Repos\\WatchStoreAPI\\WatchStoreAPI\\wwwroot\\images\\ecddbf02-c6a9-474f-89d8-4e73c4c1a902Luliz.jpg",
+      "SourceId": "WatchStoreAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Laith\\Source\\Repos\\WatchStoreAPI\\WatchStoreAPI\\wwwroot\\",
+      "BasePath": "_content/WatchStoreAPI",
+      "RelativePath": "images/ecddbf02-c6a9-474f-89d8-4e73c4c1a902Luliz.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\ecddbf02-c6a9-474f-89d8-4e73c4c1a902Luliz.jpg"
     }
   ]
 }

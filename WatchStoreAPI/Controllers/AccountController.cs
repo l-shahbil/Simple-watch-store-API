@@ -8,6 +8,8 @@ using System.Text;
 using WatchStoreAPI.Models;
 using WatchStoreAPI.Models.DTO.AccountDto;
 using WatchStoreAPI.Repository.Base;
+using IHostingEnvironment = Microsoft.AspNetCore.Hosting.IHostingEnvironment;
+
 
 namespace WatchStoreAPI.Controllers
 {
